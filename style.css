@@ -1,3 +1,6 @@
 #title {
-text-align: center;  
+text-align: center;
+background-color: orange;
+border-width: 15px;
+border-style: solid;
 }
